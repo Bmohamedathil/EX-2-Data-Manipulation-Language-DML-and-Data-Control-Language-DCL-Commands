@@ -172,3 +172,6 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ### OUTPUT:
 ![270745586-123c7d66-c434-4809-8e89-85fefdf37f24](https://github.com/Bmohamedathil/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119560261/4310d4e4-8054-4f15-aec7-30e64d24792d)
+
+## RESULT:
+Thus,the data manipulation language and data control language commands are executed.
